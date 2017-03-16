@@ -3,5 +3,9 @@
 	<classpathentry kind="src" path="src"/>
 	<classpathentry excluding="src/" kind="src" path=""/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/karat_applet"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/karat_common"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/karat_drivers"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/karat_server"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
